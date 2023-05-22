@@ -1,0 +1,32 @@
+.captain {
+  background-color: lightblue;
+}
+
+.warrior {
+  background-color: lightgreen;
+}
+
+.marine {
+  background-color: yellow;
+}
+
+.black-smith {
+  background-color: coral;
+}
+
+.trader {
+  background-color: lavender;
+}
+
+.explorer {
+  background-color: lightgray;
+}
+
+.victory {
+    background-color: lightpink;
+}
+
+.legend {
+    font-size: larger;
+    font-weight: 600;
+}
